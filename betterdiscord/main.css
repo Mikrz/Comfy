@@ -2156,7 +2156,7 @@
   y: 66;
   width: 20px;
   height: 20px;
-  rx: calc(var(--status-radius) + 1px) !important;
+  rx: calc(var(--rs-avatar-shape) + 1px) !important;
   stroke-width: 4px;
   stroke: var(--background-tertiary);
 }
