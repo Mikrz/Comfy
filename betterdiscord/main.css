@@ -1322,7 +1322,7 @@
   y: 66px;
   width: 20px;
   height: 20px;
-  rx: calc(var(--status-radius) + 1px);
+  rx: calc(var(--rs-avatar-shape) + 1px) !important;
   stroke: var(--background-secondary);
   stroke-width: 4px;
 }
